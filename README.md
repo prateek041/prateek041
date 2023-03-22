@@ -7,7 +7,4 @@ I'm from India, a student pursuing undergraduate degree in computer science. I r
 - [Linkedin](https://www.linkedin.com/in/prateek-singh-903449211/) actively looking for internships!
 - [showwcase](https://www.showwcase.com/prateek041) It's one of the best platform for developers.
 
-![prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateek041&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek041&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
