@@ -2,7 +2,7 @@
 
 I'm from India, a student pursuing Undergraduate degree in Computer Science. My current experience is with Web Technologies (Full Stack) and Cloud native Development. I also like to explore hence currently learning about NLP with Deep Learning and Language modelling.I love to work with various developer communities.
 
-I worked as an LFX mentee under Cilium where I built a kubernetes Operator from scratch using Go programming language. I really enjoyed it because of my love in Cloud Native Development.
+I worked as an LFX mentee under Cilium where I built a kubernetes Operator from scratch using Go programming language.
 
 I am also a Software engineer at Fountane, which is a startup where I collaborate with teams to build software solutions for Clients all over the world.
 
